@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+
+    <string name="payment">Payment</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Input String -->
+    <string name="Term_prompt">Terms</string>
+    <string-array name="terms_arrays">
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
+
+    <string name="homeValue">Home Value</string>
+    <string name="downPayment">Down Payment</string>
+    <string name="apr">APR</string>
+    <string name="terms">Terms</string>
+    <string name="taxRate">Tax Rate</string>
+
+    <!-- Output String-->
+    <string name="monthlyPaid">Monthly Payment</string>
+    <string name="taxPaid">Total Tax Paid</string>
+    <string name="interestPaid">Total Interest Paid</string>
+    <string name="payOffDate">Pay off date</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+</resources>
